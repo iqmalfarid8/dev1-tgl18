@@ -1,14 +1,11 @@
 latihan
 latihan
 latihan
-<<<<<<< HEAD
 latihan prubahan1 jojojuhu
 latihan
 latihan
-latihan
-=======
 latihan simulasi konflik
 latihan
 latihan
 latihangiy
->>>>>>> db437166dfcb91fe6d7d4cfc71bc477298371f93
+
